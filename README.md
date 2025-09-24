@@ -41,13 +41,13 @@
 <div class="controls">
   <div class="control-box">
     <h3>Sóng âm tần</h3>
-    Biên độ: <input id="ampSignal" type="number" value="1" step="0.1"><br>
-    Tần số: <input id="freqSignal" type="number" value="2" step="0.1">
+    Biên độ: <input id="ampSignal" type="number" value="" step="0.1"><br>
+    Tần số: <input id="freqSignal" type="number" value="" step="0.1">
   </div>
   <div class="control-box">
     <h3>Sóng mang</h3>
-    Biên độ: <input id="ampCarrier" type="number" value="2" step="0.1"><br>
-    Tần số: <input id="freqCarrier" type="number" value="10" step="0.1">
+    Biên độ: <input id="ampCarrier" type="number" value="" step="0.1"><br>
+    Tần số: <input id="freqCarrier" type="number" value="" step="0.1">
   </div>
 </div>
 
